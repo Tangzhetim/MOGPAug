@@ -10,8 +10,9 @@ This repository hosts the code associated with the research paper "Multi-Dimensi
 
 ## Citation
 If you utilize this code in your research, please cite:
-For journal:
+
 ```plaintext
+For journal:
 @Article{MOGP-sensors,
   AUTHOR = {Tang, Zhe and Li, Sihao and Kim, Kyeong Soo and Smith, Jeremy S.},
   TITLE = {Multi-Dimensional {Wi-Fi} Received Signal Strength Indicator Data Augmentation Based on {Multi-Output Gaussian Process} for Large-Scale Indoor Localization},
